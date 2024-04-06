@@ -16,7 +16,7 @@ with col1:
     st.write(' ')
 
 with col2:
-    st.image("https://github.com/https://github.com/theRawrrr/Url_Censer/blob/main/webapp/assets/url_censer_logo.png?raw=true")
+    st.image("https://github.com/theRawrrr/Url_Censer/blob/main/webapp/assets/url_censer_logo.png?raw=true")
 
 with col3:
     st.write(' ')
